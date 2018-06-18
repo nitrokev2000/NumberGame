@@ -1,0 +1,10 @@
+C:\Users\nitrokev2000\Desktop\Number\NumberView\NumberView\obj\Debug\NumberView.csproj.GenerateResource.Cache
+C:\Users\nitrokev2000\Desktop\Number\NumberView\NumberView\obj\Debug\NumberView.csproj.CoreCompileInputs.cache
+C:\Users\nitrokev2000\Desktop\Number\NumberView\NumberView\bin\Debug\NumberView.exe.config
+C:\Users\nitrokev2000\Desktop\Number\NumberView\NumberView\bin\Debug\NumberView.exe
+C:\Users\nitrokev2000\Desktop\Number\NumberView\NumberView\bin\Debug\NumberView.pdb
+C:\Users\nitrokev2000\Desktop\Number\NumberView\NumberView\obj\Debug\NumberView.exe
+C:\Users\nitrokev2000\Desktop\Number\NumberView\NumberView\obj\Debug\NumberView.pdb
+C:\Users\nitrokev2000\Desktop\Number\NumberView\NumberView\obj\Debug\NumberView.csprojResolveAssemblyReference.cache
+C:\Users\nitrokev2000\Desktop\Number\NumberView\NumberView\obj\Debug\NumberView.View.resources
+C:\Users\nitrokev2000\Desktop\Number\NumberView\NumberView\obj\Debug\NumberView.IPAddress.resources
